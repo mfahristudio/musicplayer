@@ -1,4 +1,10 @@
 {
+    "app_data": [
+        {
+            "new_package": "com.mfahristudio.newapppackage"
+        }
+    ],
+	
     "playlist": [
         {
             "id": "online1",
@@ -12,13 +18,13 @@
                     "artist": "510 ft Fanny Soegi",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video.mp3"
                 },
-				{
+                {
                     "id": "2",
                     "title": "Mimbar",
                     "artist": "510",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
                 },
-				{
+                {
                     "id": "3",
                     "title": "Plastic Faith",
                     "artist": "510",
