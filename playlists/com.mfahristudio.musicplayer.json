@@ -8,19 +8,19 @@
             "songs": [
                 {
                     "id": "1",
-                    "title": "AMO",
+                    "title": "ia800306.us.archive.org",
                     "artist": "510 ft Fanny Soegi",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video.mp3"
                 },
                 {
                     "id": "2",
-                    "title": "Mimbar",
+                    "title": "Mimbar ia800306.us.archive.org",
                     "artist": "510",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
                 },
                 {
                     "id": "3",
-                    "title": "Plastic Faith",
+                    "title": "us.archive.org Plastic Faith",
                     "artist": "510",
                     "path": "https://ia600903.us.archive.org/19/items/510-plastic-faith-lyrics-video/510%20-%20PLASTIC%20FAITH%20%28Lyrics%20Video%29.mp3"
                 }
@@ -34,9 +34,21 @@
             "songs": [
                 {
                     "id": "1",
-                    "title": "test",
-                    "artist": "test",
-                    "path": "https://archive.org/download/MishariRashidAlafasyBeautifulFullQuranRecitation411mb/035%20Sura%20Al%20Fatir.mp3"
+                    "title": "server321",
+                    "artist": "lain321",
+                    "path": "https://www.ashleecadell.com/xyzstorelibrary/Guns%20N'%20Roses/Use%20Your%20Illusion%20II/13%20-%20Don't%20Cry%20(Alt.Lyrics).mp3"
+                },
+                {
+                    "id": "1",
+                    "title": "servfdsdfer",
+                    "artist": "laaaasin",
+                    "path": "https://www.ashleecadell.com/xyzstorelibrary/Guns%20N'%20Roses/Use%20Your%20Illusion%20II/03%20-%20Yesterdays.mp3"
+                },
+                {
+                    "id": "1",
+                    "title": "ser543ver",
+                    "artist": "la343in",
+                    "path": "http://fooo.fr/~vjeux/github/jDataView/demo/id3/Guns%20N%20Roses%20-%20Welcome%20To%20The%20Jungle.mp3"
                 }
             ]
         },
