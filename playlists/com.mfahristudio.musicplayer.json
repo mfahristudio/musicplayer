@@ -8,21 +8,33 @@
             "songs": [
                 {
                     "id": "1",
-                    "title": "ia800306.us.archive.org",
+                    "title": "AMO src Archive",
                     "artist": "510 ft Fanny Soegi",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20AMO%20%28feat.%20%40fannysoegi%20%29%20Lyric%20Video.mp3"
                 },
                 {
                     "id": "2",
-                    "title": "Mimbar ia800306.us.archive.org",
+                    "title": "Mimbar src ia800306.us.archive.org",
                     "artist": "510",
                     "path": "https://ia800306.us.archive.org/18/items/510-mimbar-official-lyric-visualizer/510%20-%20Mimbar%20%28Official%20Lyric%20Visualizer%29.mp3"
                 },
                 {
                     "id": "3",
-                    "title": "us.archive.org Plastic Faith",
+                    "title": "Plastic Faith src ia600903.us.archive.org",
                     "artist": "510",
                     "path": "https://ia600903.us.archive.org/19/items/510-plastic-faith-lyrics-video/510%20-%20PLASTIC%20FAITH%20%28Lyrics%20Video%29.mp3"
+                },
+                {
+                    "id": "4",
+                    "title": "CONTOH LINK RUSAK 1",
+                    "artist": "510",
+                    "path": "https://ia6FDSDF00903.us.arFDSDchive.org/19/items/510-plastic-faith-lyrics-video/510%20-%20PLASTIC%20FAITH%20%28Lyrics%20Video%29.mp3"
+                },
+                {
+                    "id": "5",
+                    "title": "CONTOH LINK RUSAK 1",
+                    "artist": "510",
+                    "path": "https://ia6FDSDF00903.us.arFDSDchive.org/19/items/510-plastic-faith-lyrics-video/510%20-%20PLASTIC%20FAITH%20%28Lyrics%20Video%29.mp3"
                 }
             ]
         },
