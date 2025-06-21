@@ -1,0 +1,712 @@
+{
+    "playlist": [
+        {
+            "id": 1,
+            "title": "Compilation",
+            "artist": "Linkin Park",
+            "coverUrl": "https:\/\/i.pinimg.com\/736x\/d2\/0b\/aa\/d20baa62f1612018099d1f318b96c12b.jpg",
+            "songs": [
+                {
+                    "id": 1001,
+                    "title": "01 Foreword",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/01%20-%20Foreword.mp3"
+                },
+                {
+                    "id": 1002,
+                    "title": "01 Keys To The Kingdom",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/01%20-%20Keys%20To%20The%20Kingdom.mp3"
+                },
+                {
+                    "id": 1003,
+                    "title": "02 Don't Stay",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/02%20-%20Don%27t%20Stay.mp3"
+                },
+                {
+                    "id": 1004,
+                    "title": "03 Somewhere I Belong",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/03%20-%20Somewhere%20I%20Belong.mp3"
+                },
+                {
+                    "id": 1005,
+                    "title": "04 Lying From You",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/04%20-%20Lying%20From%20You.mp3"
+                },
+                {
+                    "id": 1006,
+                    "title": "05 Hit The Floor",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/05%20-%20Hit%20The%20Floor.mp3"
+                },
+                {
+                    "id": 1007,
+                    "title": "06 Easier To Run",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/06%20-%20Easier%20To%20Run.mp3"
+                },
+                {
+                    "id": 1008,
+                    "title": "07 Faint",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/07%20-%20Faint.mp3"
+                },
+                {
+                    "id": 1009,
+                    "title": "08 Figure.09",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/08%20-%20Figure.09.mp3"
+                },
+                {
+                    "id": 1010,
+                    "title": "09 Breaking The Habit",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/09%20-%20Breaking%20The%20Habit.mp3"
+                },
+                {
+                    "id": 1011,
+                    "title": "10 From The Inside",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/10%20-%20From%20The%20Inside.mp3"
+                },
+                {
+                    "id": 1012,
+                    "title": "11 Nobody's Listening",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/11%20-%20Nobody%27s%20Listening.mp3"
+                },
+                {
+                    "id": 1013,
+                    "title": "12 Session",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/12%20-%20Session.mp3"
+                },
+                {
+                    "id": 1014,
+                    "title": "13 Numb",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/13%20-%20Numb.mp3"
+                },
+                {
+                    "id": 1015,
+                    "title": "Breaking The Habit Linkin Park",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Breaking%20The%20Habit%20%28Official%20Video%29%20-%20Linkin%20Park.mp3"
+                },
+                {
+                    "id": 1016,
+                    "title": "Crawling Linkin Park",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Crawling%20%28Official%20Video%29%20-%20Linkin%20Park.mp3"
+                },
+                {
+                    "id": 1017,
+                    "title": "Linkin Park Forgotten",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Linkin%20Park%20-%20Forgotten%20%28Lyrics%29.mp3"
+                },
+                {
+                    "id": 1018,
+                    "title": "Linkin Park Hybrid Theory Bonus1 My December",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Linkin%20Park%20-%20Hybrid%20Theory%20-%20Bonus1-%20My%20December%20-.mp3"
+                },
+                {
+                    "id": 1019,
+                    "title": "Linkin Park Hybrid Theory Bonus2 High Voltage bkf",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Linkin%20Park%20-%20Hybrid%20Theory%20-%20Bonus2%20-%20High%20Voltage-bkf.mp3"
+                },
+                {
+                    "id": 1020,
+                    "title": "Linkin Park New Divide GetThemLyrics(MP3 128K)",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Linkin%20Park%20-%20New%20Divide%20%28Lyrics%29%20-%20GetThemLyrics%28MP3_128K%29.mp3"
+                },
+                {
+                    "id": 1021,
+                    "title": "Linkin Park New Divide GetThemLyrics",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Linkin%20Park%20-%20New%20Divide%20%28Lyrics%29%20-%20GetThemLyrics.mp3"
+                },
+                {
+                    "id": 1022,
+                    "title": "Somewhere I Belong Linkin Park",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/Somewhere%20I%20Belong%20%28Official%20Video%29%20-%20Linkin%20Park.mp3"
+                },
+                {
+                    "id": 1023,
+                    "title": "linkin park faint128185",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/linkin%20park%20-%20faint128185.mp3"
+                },
+                {
+                    "id": 1024,
+                    "title": "linkin park numb",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/linkin%20park%20-%20numb.mp3"
+                },
+                {
+                    "id": 1025,
+                    "title": "linkin park what i've done193295486",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/linkin%20park%20-%20what%20i%27ve%20done193295486.mp3"
+                },
+                {
+                    "id": 1026,
+                    "title": "linkin park in the end",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/linkin%20park_in%20the%20end.mp3"
+                },
+                {
+                    "id": 1027,
+                    "title": "new divide",
+                    "artist": "Compilation",
+                    "path": "https:\/\/archive.org\/download\/01-keys-to-the-kingdom\/new%20divide.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Nex Gen",
+            "artist": "Bring Me The Horizon",
+            "coverUrl": "https:\/\/dn721605.ca.archive.org\/0\/items\/post-human-nex-gen\/post%20human%20nex%20gen.jpg",
+            "songs": [
+                {
+                    "id": 1028,
+                    "title": "01 [ost] dreamseeker",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/01%20%5Bost%5D%20dreamseeker.mp3"
+                },
+                {
+                    "id": 1029,
+                    "title": "02 YOUtopia",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/02%20YOUtopia.mp3"
+                },
+                {
+                    "id": 1030,
+                    "title": "03 Kool Aid",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/03%20Kool-Aid.mp3"
+                },
+                {
+                    "id": 1031,
+                    "title": "04 Top 10 staTues tHat CriEd bloOd",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/04%20Top%2010%20staTues%20tHat%20CriEd%20bloOd.mp3"
+                },
+                {
+                    "id": 1032,
+                    "title": "05 liMOusIne",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/05%20liMOusIne.mp3"
+                },
+                {
+                    "id": 1033,
+                    "title": "06 DArkSide",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/06%20DArkSide.mp3"
+                },
+                {
+                    "id": 1034,
+                    "title": "07 a bulleT w my namE On",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/07%20a%20bulleT%20w-%20my%20namE%20On.mp3"
+                },
+                {
+                    "id": 1035,
+                    "title": "08 [ost] (spi)ritual",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/08%20%5Bost%5D%20%28spi%29ritual.mp3"
+                },
+                {
+                    "id": 1036,
+                    "title": "09 n A",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/09%20n-A.mp3"
+                },
+                {
+                    "id": 1037,
+                    "title": "10 LosT",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/10%20LosT.mp3"
+                },
+                {
+                    "id": 1038,
+                    "title": "11 sTraNgeRs",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/11%20sTraNgeRs.mp3"
+                },
+                {
+                    "id": 1039,
+                    "title": "12 R.i.p. (duskCOre RemIx)",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/12%20R.i.p.%20%28duskCOre%20RemIx%29.mp3"
+                },
+                {
+                    "id": 1040,
+                    "title": "13 AmEN!",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/13%20AmEN%21.mp3"
+                },
+                {
+                    "id": 1041,
+                    "title": "14 [ost] p.u.s.s. e",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/14%20%5Bost%5D%20p.u.s.s.-e.mp3"
+                },
+                {
+                    "id": 1042,
+                    "title": "15 DiE4u",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/15%20DiE4u.mp3"
+                },
+                {
+                    "id": 1043,
+                    "title": "16 DIg It",
+                    "artist": "Nex Gen",
+                    "path": "https:\/\/archive.org\/download\/post-human-nex-gen\/16%20DIg%20It.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kompilasi Terbaik",
+            "artist": "Peterpan",
+            "coverUrl": "https:\/\/i.scdn.co\/image\/ab6761610000e5eb19fd0c20ed2bed2ea04754cf",
+            "songs": [
+                {
+                    "id": 1044,
+                    "title": "01 Mimpi Yang Sempurna",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/01%20Mimpi%20Yang%20Sempurna.mp3"
+                },
+                {
+                    "id": 1045,
+                    "title": "01 Walau Habis Terang",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/01%20Walau%20Habis%20Terang.mp3"
+                },
+                {
+                    "id": 1046,
+                    "title": "02 Bintang Di Surga",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/02%20Bintang%20Di%20Surga.mp3"
+                },
+                {
+                    "id": 1047,
+                    "title": "02 Kisah Cintaku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/02%20Kisah%20Cintaku.mp3"
+                },
+                {
+                    "id": 1048,
+                    "title": "03 Aku & Bintang",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/03%20Aku%20%26%20Bintang.mp3"
+                },
+                {
+                    "id": 1049,
+                    "title": "03 Dilema Besar",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/03%20Dilema%20Besar.mp3"
+                },
+                {
+                    "id": 1050,
+                    "title": "04 Jauh Mimpiku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/04%20Jauh%20Mimpiku.mp3"
+                },
+                {
+                    "id": 1051,
+                    "title": "04 Mungkin Nanti",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/04%20Mungkin%20Nanti.mp3"
+                },
+                {
+                    "id": 1052,
+                    "title": "05 Hari Yang Cerah Untuk Jiwa Yang Sepi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/05%20Hari%20Yang%20Cerah%20Untuk%20Jiwa%20Yang%20Sepi.mp3"
+                },
+                {
+                    "id": 1053,
+                    "title": "05 Tak Bisakah",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/05%20Tak%20Bisakah.mp3"
+                },
+                {
+                    "id": 1054,
+                    "title": "06 Menunggu Pagi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/06%20Menunggu%20Pagi.mp3"
+                },
+                {
+                    "id": 1055,
+                    "title": "06 Semua Tentang Kita",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/06%20Semua%20Tentang%20Kita.mp3"
+                },
+                {
+                    "id": 1056,
+                    "title": "07 Ada Apa Denganmu",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/07%20Ada%20Apa%20Denganmu.mp3"
+                },
+                {
+                    "id": 1057,
+                    "title": "07 Khayalan Tingkat Tinggi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/07%20Khayalan%20Tingkat%20Tinggi.mp3"
+                },
+                {
+                    "id": 1058,
+                    "title": "08 Menunggumu (feat Chrisye)",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/08%20Menunggumu%20%28feat%20Chrisye%29.mp3"
+                },
+                {
+                    "id": 1059,
+                    "title": "08 Sahabat",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/08%20Sahabat.mp3"
+                },
+                {
+                    "id": 1060,
+                    "title": "09 Menghapus Jejakmu",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/09%20Menghapus%20Jejakmu.mp3"
+                },
+                {
+                    "id": 1061,
+                    "title": "09 Sally Sendiri",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/09%20Sally%20Sendiri.mp3"
+                },
+                {
+                    "id": 1062,
+                    "title": "10 Langit Tak Mendengar",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/10%20Langit%20Tak%20Mendengar.mp3"
+                },
+                {
+                    "id": 1063,
+                    "title": "10 Yang Terdalam",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/10%20Yang%20Terdalam.mp3"
+                },
+                {
+                    "id": 1064,
+                    "title": "11 Di Atas Normal",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/11%20Di%20Atas%20Normal.mp3"
+                },
+                {
+                    "id": 1065,
+                    "title": "11 Di Belakangku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/11%20Di%20Belakangku.mp3"
+                },
+                {
+                    "id": 1066,
+                    "title": "12 Kita Tertawa",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/12%20Kita%20Tertawa.mp3"
+                },
+                {
+                    "id": 1067,
+                    "title": "12 Kupu Kupu Malam",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/12%20Kupu-Kupu%20Malam.mp3"
+                },
+                {
+                    "id": 1068,
+                    "title": "13 Di Balik Awan",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/13%20Di%20Balik%20Awan.mp3"
+                },
+                {
+                    "id": 1069,
+                    "title": "13 Membebaniku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/13%20Membebaniku.mp3"
+                },
+                {
+                    "id": 1070,
+                    "title": "14 Cobalah Mengerti",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/14%20Cobalah%20Mengerti.mp3"
+                },
+                {
+                    "id": 1071,
+                    "title": "14 Ku Katakan Dengan Indah",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/14%20Ku%20Katakan%20Dengan%20Indah.mp3"
+                },
+                {
+                    "id": 1072,
+                    "title": "15 Tak Ada Yang Abadi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/15%20Tak%20Ada%20Yang%20Abadi.mp3"
+                },
+                {
+                    "id": 1073,
+                    "title": "15 Topeng",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-sebuah-nama-sebuah-cerita-cd-version\/15%20Topeng.mp3"
+                },
+                {
+                    "id": 1074,
+                    "title": "01 Tak Bisakah",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/01%20Tak%20Bisakah.mp3"
+                },
+                {
+                    "id": 1075,
+                    "title": "02 Jauh Mimpiku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/02%20Jauh%20Mimpiku.mp3"
+                },
+                {
+                    "id": 1076,
+                    "title": "03 Membebaniku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/03%20Membebaniku.mp3"
+                },
+                {
+                    "id": 1077,
+                    "title": "04 Menunggu Pagi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/04%20Menunggu%20Pagi.mp3"
+                },
+                {
+                    "id": 1078,
+                    "title": "05 Kukatakan Dengan Indah",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/05%20Kukatakan%20Dengan%20Indah.mp3"
+                },
+                {
+                    "id": 1079,
+                    "title": "06 Sahabat",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/06%20Sahabat.mp3"
+                },
+                {
+                    "id": 1080,
+                    "title": "07 Aku & Bintang",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/07%20Aku%20%26%20Bintang.mp3"
+                },
+                {
+                    "id": 1081,
+                    "title": "08 Mungkin Nanti",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/08%20Mungkin%20Nanti.mp3"
+                },
+                {
+                    "id": 1082,
+                    "title": "09 Di Belakangku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/09%20Di%20Belakangku.mp3"
+                },
+                {
+                    "id": 1083,
+                    "title": "10 Langit Tak Mendengar",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-alexandria-ost\/10%20Langit%20Tak%20Mendengar.mp3"
+                },
+                {
+                    "id": 1084,
+                    "title": "01 Menghapus Jejakmu",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/01%20Menghapus%20Jejakmu.mp3"
+                },
+                {
+                    "id": 1085,
+                    "title": "02 Hari Yang Cerah Untuk Jiwa Yang S",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/02%20Hari%20Yang%20Cerah%20Untuk%20Jiwa%20Yang%20S.mp3"
+                },
+                {
+                    "id": 1086,
+                    "title": "03 Di Balik Awan",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/03%20Di%20Balik%20Awan.mp3"
+                },
+                {
+                    "id": 1087,
+                    "title": "04 Kota Mati",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/04%20Kota%20Mati.mp3"
+                },
+                {
+                    "id": 1088,
+                    "title": "05 Melawan Dunia",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/05%20Melawan%20Dunia.mp3"
+                },
+                {
+                    "id": 1089,
+                    "title": "06 Sally Sendiri",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/06%20Sally%20Sendiri.mp3"
+                },
+                {
+                    "id": 1090,
+                    "title": "07 Lihat Langkahku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/07%20Lihat%20Langkahku.mp3"
+                },
+                {
+                    "id": 1091,
+                    "title": "08 Bebas",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/08%20Bebas.mp3"
+                },
+                {
+                    "id": 1092,
+                    "title": "09 Cobalah Mengerti",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/09%20Cobalah%20Mengerti.mp3"
+                },
+                {
+                    "id": 1093,
+                    "title": "10 Dunia Yang Terlupa",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-hari-yang-cerah\/10%20Dunia%20Yang%20Terlupa.mp3"
+                },
+                {
+                    "id": 1094,
+                    "title": "01 Ada Apa Denganmu",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/01%20Ada%20Apa%20Denganmu.mp3"
+                },
+                {
+                    "id": 1095,
+                    "title": "02 Mungkin Nanti",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/02%20Mungkin%20Nanti.mp3"
+                },
+                {
+                    "id": 1096,
+                    "title": "03 Khayalan Tingkat Tinggi",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/03%20Khayalan%20Tingkat%20Tinggi.mp3"
+                },
+                {
+                    "id": 1097,
+                    "title": "04 Di Belakangku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/04%20Di%20Belakangku.mp3"
+                },
+                {
+                    "id": 1098,
+                    "title": "05 Ku Katakan Dengan Indah",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/05%20Ku%20Katakan%20Dengan%20Indah.mp3"
+                },
+                {
+                    "id": 1099,
+                    "title": "06 2DSD",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/06%202DSD.mp3"
+                },
+                {
+                    "id": 1100,
+                    "title": "07 Diatas Normal",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/07%20Diatas%20Normal.mp3"
+                },
+                {
+                    "id": 1101,
+                    "title": "08 Aku",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/08%20Aku.mp3"
+                },
+                {
+                    "id": 1102,
+                    "title": "09 Masa Lalu Tertinggal",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/09%20Masa%20Lalu%20Tertinggal.mp3"
+                },
+                {
+                    "id": 1103,
+                    "title": "10 Bintang Di Surga",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-bintang-di-surga\/10%20Bintang%20Di%20Surga.mp3"
+                },
+                {
+                    "id": 1104,
+                    "title": "01 Sahabat",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/01%20Sahabat.mp3"
+                },
+                {
+                    "id": 1105,
+                    "title": "02 Aku & Bintang",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/02%20Aku%20%26%20Bintang.mp3"
+                },
+                {
+                    "id": 1106,
+                    "title": "03 Semua Tentang Kita",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/03%20Semua%20Tentang%20Kita.mp3"
+                },
+                {
+                    "id": 1107,
+                    "title": "04 Dan Hilang",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/04%20Dan%20Hilang.mp3"
+                },
+                {
+                    "id": 1108,
+                    "title": "05 Satu Hati",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/05%20Satu%20Hati.mp3"
+                },
+                {
+                    "id": 1109,
+                    "title": "06 Mimpi Yang Sempurna",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/06%20Mimpi%20Yang%20Sempurna.mp3"
+                },
+                {
+                    "id": 1110,
+                    "title": "07 Taman Langit",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/07%20Taman%20Langit.mp3"
+                },
+                {
+                    "id": 1111,
+                    "title": "08 Yang Terdalam",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/08%20Yang%20Terdalam.mp3"
+                },
+                {
+                    "id": 1112,
+                    "title": "09 Tertinggalkan Waktu",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/09%20Tertinggalkan%20Waktu.mp3"
+                },
+                {
+                    "id": 1113,
+                    "title": "10 Kita Tertawa",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/10%20Kita%20Tertawa.mp3"
+                },
+                {
+                    "id": 1114,
+                    "title": "11 Topeng",
+                    "artist": "Kompilasi Terbaik",
+                    "path": "https:\/\/archive.org\/download\/peterpan-taman-langit\/11%20Topeng.mp3"
+                }
+            ]
+        }
+    ]
+}
