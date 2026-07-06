@@ -1,0 +1,522 @@
+{
+    "playlist": [
+        {
+            "id": 1,
+            "title": "Suara Kicau 1",
+            "artist": "Burung Kutilang",
+            "coverUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRSXIJ7lYRsbMrs9nrj9tMWSFfMH7VLfC3Cy_mVDZtklCi0FZdrVG4impY&s=10",
+            "songs": [
+                {
+                    "id": 1001,
+                    "title": "Suara Kutilang Emas Gacor",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/suara-kutilang-emas-gacor\/Suara%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1002,
+                    "title": "Kutilang Emas Gacor Jos",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-gacor-jos\/Kutilang%20Emas%20Gacor%20Jos.mp3"
+                },
+                {
+                    "id": 1003,
+                    "title": "Pancingan Kutilang Emas Gacor",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/pancingan-kutilang-emas-gacor\/Pancingan%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1004,
+                    "title": "Masteran Kutilang Emas Gacor",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-kutilang-emas-gacor_202311\/Masteran%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1005,
+                    "title": "Burung Kutilang 10",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2810%29.mp3"
+                },
+                {
+                    "id": 1006,
+                    "title": "Burung Kutilang 11",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2811%29.mp3"
+                },
+                {
+                    "id": 1007,
+                    "title": "Burung Kutilang 12",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2812%29.mp3"
+                },
+                {
+                    "id": 1008,
+                    "title": "Burung Kutilang 13",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2813%29.mp3"
+                },
+                {
+                    "id": 1009,
+                    "title": "Burung Kutilang 14",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2814%29.mp3"
+                },
+                {
+                    "id": 1010,
+                    "title": "Burung Kutilang 15",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%2815%29.mp3"
+                },
+                {
+                    "id": 1011,
+                    "title": "Burung Kutilang 8",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%288%29.mp3"
+                },
+                {
+                    "id": 1012,
+                    "title": "Burung Kutilang 9",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12\/Burung%20Kutilang%20%289%29.mp3"
+                },
+                {
+                    "id": 1013,
+                    "title": "Burung Kutilang 24",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2824%29.mp3"
+                },
+                {
+                    "id": 1014,
+                    "title": "Burung Kutilang 25",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2825%29.mp3"
+                },
+                {
+                    "id": 1015,
+                    "title": "Burung Kutilang 26",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2826%29.mp3"
+                },
+                {
+                    "id": 1016,
+                    "title": "Burung Kutilang 27",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2827%29.mp3"
+                },
+                {
+                    "id": 1017,
+                    "title": "Burung Kutilang 28",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2828%29.mp3"
+                },
+                {
+                    "id": 1018,
+                    "title": "Burung Kutilang 29",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Burung%20Kutilang%20%2829%29.mp3"
+                },
+                {
+                    "id": 1019,
+                    "title": "Masteran Burung Kutilang Emas Bikin Burung Gacor",
+                    "artist": "Suara Kicau 1",
+                    "path": "https:\/\/archive.org\/download\/masteran-burung-kutilang-emas-bikin-burung-gacor\/Masteran%20Burung%20Kutilang%20Emas%20Bikin%20Burung%20Gacor.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Suara Kicau 2",
+            "artist": "Burung Kutilang",
+            "coverUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRSXIJ7lYRsbMrs9nrj9tMWSFfMH7VLfC3Cy_mVDZtklCi0FZdrVG4impY&s=10",
+            "songs": [
+                {
+                    "id": 1020,
+                    "title": "JAGOAN kutilang emas GACOR dan FULL ISIAN",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20JAGOAN%20kutilang%20emas%20GACOR%20dan%20FULL%20ISIAN.mp3"
+                },
+                {
+                    "id": 1021,
+                    "title": "KUTILANG EMAS GACOR UNTUK PANCINGAN",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20KUTILANG%20EMAS%20GACOR%20UNTUK%20PANCINGAN.mp3"
+                },
+                {
+                    "id": 1022,
+                    "title": "Kicau Burung Kutilang emas Gacor Satu Jam buat Audio Pikat Pancingan Kutilanggacor ketilangemas",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Kicau%20Burung%20Kutilang%20emas%20%20Gacor%20Satu%20Jam%20buat%20Audio%20Pikat%20%20Pancingan%20%20Kutilanggacor%20ketilangemas.mp3"
+                },
+                {
+                    "id": 1023,
+                    "title": "Kutilang Emas Gacor Audio Masteran Kutilang Emas Gacor Full Isian",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Kutilang%20Emas%20Gacor%20Audio%20%20Masteran%20Kutilang%20Emas%20Gacor%20Full%20Isian.mp3"
+                },
+                {
+                    "id": 1024,
+                    "title": "Kutilang Emas Gacor Pancingan Kutilang Emas Gacor full isian",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Kutilang%20Emas%20Gacor%20Pancingan%20Kutilang%20Emas%20Gacor%20full%20isian.mp3"
+                },
+                {
+                    "id": 1025,
+                    "title": "Masteran Kutilang Emas Gacor Full Isian Durasi Panjang",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Masteran%20Kutilang%20Emas%20Gacor%20Full%20Isian%20Durasi%20Panjang.mp3"
+                },
+                {
+                    "id": 1026,
+                    "title": "Masteran Kutilang Emas Gacor Full Isian Jernih Durasi Panjang mp3",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Masteran%20Kutilang%20Emas%20Gacor%20Full%20Isian%20Jernih%20Durasi%20Panjang%20mp3.mp3"
+                },
+                {
+                    "id": 1027,
+                    "title": "Ocehan Kutilang Emas Gacor Full Ngerol Masteran Burung",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Ocehan%20Kutilang%20Emas%20Gacor%20%20Full%20Ngerol%20%20Masteran%20Burung.mp3"
+                },
+                {
+                    "id": 1028,
+                    "title": "PANCINGAN MASTERAN KUTILANG EMAS GACOR SUARA NYARING",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20PANCINGAN%20%20MASTERAN%20KUTILANG%20EMAS%20GACOR%20SUARA%20NYARING.mp3"
+                },
+                {
+                    "id": 1029,
+                    "title": "SUARA BURUNG KUTILANG EMAS GACOR FULL ISIAN",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20SUARA%20BURUNG%20KUTILANG%20EMAS%20GACOR%20FULL%20ISIAN.mp3"
+                },
+                {
+                    "id": 1030,
+                    "title": "SUARA BURUNG KUTILANG EMAS GACOR Suara Kristal Jernih Pancingan Kutilang Emas Gacor full isian",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20SUARA%20BURUNG%20KUTILANG%20EMAS%20GACOR%20Suara%20Kristal%20Jernih%20Pancingan%20Kutilang%20Emas%20Gacor%20full%20isian.mp3"
+                },
+                {
+                    "id": 1031,
+                    "title": "SUARA PIKAT KUTILANG EMAS GACOR",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20SUARA%20PIKAT%20KUTILANG%20EMAS%20GACOR.mp3"
+                },
+                {
+                    "id": 1032,
+                    "title": "Suara Burung Kutilang Emas GACOORLangsung Nyaut",
+                    "artist": "Suara Kicau 2",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-masteran-kutilang-emas-gacor-full-isian-durasi-panjang\/y2mate.com%20-%20Suara%20Burung%20Kutilang%20Emas%20GACOORLangsung%20Nyaut.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Kicau 3",
+            "artist": "Burung Kutilang",
+            "coverUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRSXIJ7lYRsbMrs9nrj9tMWSFfMH7VLfC3Cy_mVDZtklCi0FZdrVG4impY&s=10",
+            "songs": [
+                {
+                    "id": 1033,
+                    "title": "Burung Kutilang 30",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Burung%20Kutilang%20%2830%29.mp3"
+                },
+                {
+                    "id": 1034,
+                    "title": "Burung Kutilang 31",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Burung%20Kutilang%20%2831%29.mp3"
+                },
+                {
+                    "id": 1035,
+                    "title": "Burung Kutilang 32",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Burung%20Kutilang%20%2832%29.mp3"
+                },
+                {
+                    "id": 1036,
+                    "title": "Burung Kutilang 33",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Burung%20Kutilang%20%2833%29.mp3"
+                },
+                {
+                    "id": 1037,
+                    "title": "Burung Kutilang 34",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Burung%20Kutilang%20%2834%29.mp3"
+                },
+                {
+                    "id": 1038,
+                    "title": "Kemerduan dan Kekristalan suara Burung Kutilang Emas",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Kemerduan%20dan%20Kekristalan%20suara%20Burung%20Kutilang%20Emas.mp3"
+                },
+                {
+                    "id": 1039,
+                    "title": "Masteran Burung Kutilang Emas Super EfektiF",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang\/Masteran%20Burung%20Kutilang%20Emas%20Super%20EfektiF.mp3"
+                },
+                {
+                    "id": 1040,
+                    "title": "Ampuh Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/ampuh-kutilang-emas-gacor\/Ampuh%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1041,
+                    "title": "Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-gacor\/Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1042,
+                    "title": "Pikat Ampuh Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/pikat-ampuh-kutilang-emas-gacor\/Pikat%20Ampuh%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1043,
+                    "title": "Suara Pikat Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-kutilang-emas-gacor\/Suara%20Pikat%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1044,
+                    "title": "Suara Merdu Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-merdu-kutilang-emas-gacor\/Suara%20Merdu%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1045,
+                    "title": "Suara Burung Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-burung-kutilang-emas-gacor\/Suara%20Burung%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1046,
+                    "title": "Suara Tajam Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-tajam-kutilang-emas-gacor\/Suara%20Tajam%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1047,
+                    "title": "Langsung Nyaut Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/langsung-nyaut-kutilang-emas-gacor\/Langsung%20Nyaut%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1048,
+                    "title": "Suara Ampuh Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/suara-ampuh-kutilang-emas-gacor\/Suara%20Ampuh%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1049,
+                    "title": "Pancingan Dan Masteran Kutilang Emas Gacor",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/pancingan-dan-masteran-kutilang-emas-gacor\/Pancingan%20Dan%20Masteran%20Kutilang%20Emas%20Gacor.mp3"
+                },
+                {
+                    "id": 1050,
+                    "title": "Burung Kutilang 10",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2810%29.mp3"
+                },
+                {
+                    "id": 1051,
+                    "title": "Burung Kutilang 11",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2811%29.mp3"
+                },
+                {
+                    "id": 1052,
+                    "title": "Burung Kutilang 12",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2812%29.mp3"
+                },
+                {
+                    "id": 1053,
+                    "title": "Burung Kutilang 13",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2813%29.mp3"
+                },
+                {
+                    "id": 1054,
+                    "title": "Burung Kutilang 14",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2814%29.mp3"
+                },
+                {
+                    "id": 1055,
+                    "title": "Burung Kutilang 15",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2815%29.mp3"
+                },
+                {
+                    "id": 1056,
+                    "title": "Burung Kutilang 16",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2816%29.mp3"
+                },
+                {
+                    "id": 1057,
+                    "title": "Burung Kutilang 17",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%2817%29.mp3"
+                },
+                {
+                    "id": 1058,
+                    "title": "Burung Kutilang 8",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%288%29.mp3"
+                },
+                {
+                    "id": 1059,
+                    "title": "Burung Kutilang 9",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-12_202110\/Burung%20Kutilang%20%289%29.mp3"
+                },
+                {
+                    "id": 1060,
+                    "title": "Burung Kutilang",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/burungkutilang_201911\/Burung%20Kutilang.mp3"
+                },
+                {
+                    "id": 1061,
+                    "title": "Burung Kutilang Gacor Full Isian Buat Master",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/kutilangmastergayasangarsuarahalilintar\/Burung%20Kutilang%20Gacor%20Full%20Isian%20Buat%20Master.mp3"
+                },
+                {
+                    "id": 1062,
+                    "title": "Burung kutilang pikat gacor isian fulll",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/kutilangmastergayasangarsuarahalilintar\/Burung%20kutilang%20pikat%20gacor.....%20isian%20fulll.mp3"
+                },
+                {
+                    "id": 1063,
+                    "title": "KUTILANG SUPER GACOR BONGKAR ISIAN COCOK UNTUK MIKAT MASTERAN",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/kutilangmastergayasangarsuarahalilintar\/KUTILANG%20SUPER%20GACOR%20BONGKAR%20ISIAN%2C%20COCOK%20UNTUK%20MIKAT%20%28MASTERAN%29.mp3"
+                },
+                {
+                    "id": 1064,
+                    "title": "Kutilang Master Gaya Sangar Suara Halilintar",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/kutilangmastergayasangarsuarahalilintar\/Kutilang%20Master%20Gaya%20Sangar%20Suara%20Halilintar.mp3"
+                },
+                {
+                    "id": 1065,
+                    "title": "suara pikat kutilang ribut kombinasi burung kecil MP3 terbukti ampuh untuk memikat burung kecil 1",
+                    "artist": "Kicau 3",
+                    "path": "https:\/\/archive.org\/download\/yt-1s.com-suara-pikat-kutilang-ribut-kombinasi-burung-kecil-mp-3-terbukti-ampuh-\/yt1s.com%20-%20suara%20pikat%20kutilang%20ribut%20kombinasi%20burung%20kecil%20MP3%20terbukti%20ampuh%20untuk%20memikat%20burung%20kecil~1.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Suara Kicau 4",
+            "artist": "Burung Kutilang",
+            "coverUrl": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRSXIJ7lYRsbMrs9nrj9tMWSFfMH7VLfC3Cy_mVDZtklCi0FZdrVG4impY&s=10",
+            "songs": [
+                {
+                    "id": 1066,
+                    "title": "Burung Kutilang 01 10",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%2810%29.mp3"
+                },
+                {
+                    "id": 1067,
+                    "title": "Burung Kutilang 01 11",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%2811%29.mp3"
+                },
+                {
+                    "id": 1068,
+                    "title": "Burung Kutilang 01 12",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%2812%29.mp3"
+                },
+                {
+                    "id": 1069,
+                    "title": "Burung Kutilang 01 31",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%2831%29.mp3"
+                },
+                {
+                    "id": 1070,
+                    "title": "Burung Kutilang 01 8",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%288%29.mp3"
+                },
+                {
+                    "id": 1071,
+                    "title": "Burung Kutilang 01 9",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Burung%20Kutilang%2001%20%289%29.mp3"
+                },
+                {
+                    "id": 1072,
+                    "title": "Kutilang Emas Suara Pancingan dan Pikat",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Kutilang%20Emas%20Suara%20Pancingan%20dan%20Pikat.mp3"
+                },
+                {
+                    "id": 1073,
+                    "title": "Suara Nyaring Burung Kutilang Emas",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/kutilang-emas-suara-pancingan-dan-pikat\/Suara%20Nyaring%20Burung%20Kutilang%20Emas.mp3"
+                },
+                {
+                    "id": 1074,
+                    "title": "Burung Kutilang 16",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2816%29.mp3"
+                },
+                {
+                    "id": 1075,
+                    "title": "Burung Kutilang 17",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2817%29.mp3"
+                },
+                {
+                    "id": 1076,
+                    "title": "Burung Kutilang 18",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2818%29.mp3"
+                },
+                {
+                    "id": 1077,
+                    "title": "Burung Kutilang 19",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2819%29.mp3"
+                },
+                {
+                    "id": 1078,
+                    "title": "Burung Kutilang 20",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2820%29.mp3"
+                },
+                {
+                    "id": 1079,
+                    "title": "Burung Kutilang 21",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2821%29.mp3"
+                },
+                {
+                    "id": 1080,
+                    "title": "Burung Kutilang 22",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2822%29.mp3"
+                },
+                {
+                    "id": 1081,
+                    "title": "Burung Kutilang 23",
+                    "artist": "Suara Kicau 4",
+                    "path": "https:\/\/archive.org\/download\/burung-kutilang-22\/Burung%20Kutilang%20%2823%29.mp3"
+                }
+            ]
+        }
+    ]
+}
