@@ -1,0 +1,390 @@
+{
+    "playlist": [
+        {
+            "id": 1,
+            "title": "Pikat Ruak Ruak 2",
+            "artist": "Ruak Ruak",
+            "coverUrl": "https:\/\/i.pinimg.com\/736x\/08\/02\/27\/080227eed3bfd4f2c6c10705f4a9d07d.jpg",
+            "songs": [
+                {
+                    "id": 1001,
+                    "title": "Pikat Ruak Ruak Durasi 1 Jam.",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/pikat-ruak-ruak-full-durasi-1-jam\/Pikat%20Ruak%20Ruak%20Full%20Durasi%201%20Jam..mp3"
+                },
+                {
+                    "id": 1002,
+                    "title": "Pikat Ruak Ruak Durasi 1 Jam",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/pikat-ruak-ruak-full-durasi-1-jam\/Pikat%20Ruak%20Ruak%20Full%20Durasi%201%20Jam.mp3"
+                },
+                {
+                    "id": 1003,
+                    "title": "Suara Pikat Ruak Ruak Paling Ampuh",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-tunggal\/Suara%20Pikat%20Ruak%20Ruak%20Paling%20Ampuh.mp3"
+                },
+                {
+                    "id": 1004,
+                    "title": "Suara Pikat Ruak Ruak Tunggal",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-tunggal\/Suara%20Pikat%20Ruak%20Ruak%20Tunggal.mp3"
+                },
+                {
+                    "id": 1005,
+                    "title": "Suara pikat ruak ruak paling ampuh malam Hari",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-tunggal\/Suara%20pikat%20ruak%20ruak%20paling%20ampuh%20malam%20Hari.mp3"
+                },
+                {
+                    "id": 1006,
+                    "title": "Suara pikat ruak siang",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-tunggal\/Suara%20pikat%20ruak%20siang.mp3"
+                },
+                {
+                    "id": 1007,
+                    "title": "Suara ruak ruak paling gacor",
+                    "artist": "Pikat Ruak Ruak 2",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-tunggal\/Suara%20ruak%20ruak%20paling%20gacor.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Pikat Ruak Ruak 3",
+            "artist": "Ruak Ruak",
+            "coverUrl": "https:\/\/i.pinimg.com\/736x\/f6\/7b\/b4\/f67bb4dc82b15790b13920288cc68fac.jpg",
+            "songs": [
+                {
+                    "id": 1008,
+                    "title": "Suara Burung Ruak (10)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2810%29.mp3"
+                },
+                {
+                    "id": 1009,
+                    "title": "Suara Burung Ruak (11)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2811%29.mp3"
+                },
+                {
+                    "id": 1010,
+                    "title": "Suara Burung Ruak (12)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2812%29.mp3"
+                },
+                {
+                    "id": 1011,
+                    "title": "Suara Burung Ruak (13)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2813%29.mp3"
+                },
+                {
+                    "id": 1012,
+                    "title": "Suara Burung Ruak (14)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2814%29.mp3"
+                },
+                {
+                    "id": 1013,
+                    "title": "Suara Burung Ruak (15)",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-ruak-ruak-mp3_20211016_0257\/Suara%20Burung%20Ruak%20%2815%29.mp3"
+                },
+                {
+                    "id": 1014,
+                    "title": "suara ruak ruak 1",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-1\/suara-ruak-ruak-1.mp3"
+                },
+                {
+                    "id": 1015,
+                    "title": "suara ruak ruak 2",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-1\/suara-ruak-ruak-2.mp3"
+                },
+                {
+                    "id": 1016,
+                    "title": "suara ruak ruak 3",
+                    "artist": "Pikat Ruak Ruak 3",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-1\/suara-ruak-ruak-3.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Suara Pikat 4",
+            "artist": "Ruak Ruak",
+            "coverUrl": "https:\/\/i.pinimg.com\/736x\/f6\/7b\/b4\/f67bb4dc82b15790b13920288cc68fac.jpg",
+            "songs": [
+                {
+                    "id": 1017,
+                    "title": "RUAK RUAK PIKAT, PEMANGGIL RUAK RUAK",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-paling-ampuh-kruaaak-kruwua\/RUAK-RUAK%20PIKAT%2C%20PEMANGGIL%20RUAK-RUAK.mp3"
+                },
+                {
+                    "id": 1018,
+                    "title": "SUARA PIKAT RUAK RUAK. CARA BERBURU RUAK RUAK PALING AMPUH",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-paling-ampuh-kruaaak-kruwua\/SUARA%20PIKAT%20RUAK%20RUAK.%20CARA%20BERBURU%20RUAK%20RUAK%20PALING%20AMPUH.mp3"
+                },
+                {
+                    "id": 1019,
+                    "title": "Suara Ruak Ruak Pikat Paling Ampuh Kruaaak kruwua",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-paling-ampuh-kruaaak-kruwua\/Suara%20Ruak%20Ruak%20Pikat%20Paling%20Ampuh%20-%20Kruaaak%20%20kruwua.mp3"
+                },
+                {
+                    "id": 1020,
+                    "title": "suara pikat ruak ruak paling ampuh",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-paling-ampuh-kruaaak-kruwua\/suara%20pikat%20ruak%20ruak%20paling%20ampuh.mp3"
+                },
+                {
+                    "id": 1021,
+                    "title": "Master pikat burung ruakruak",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Master%20pikat%20burung%20ruakruak.mp3"
+                },
+                {
+                    "id": 1022,
+                    "title": "PASTI DATANG SUARA RUAK RUAK RAWA DANAU",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20PASTI%20DATANG%20SUARA%20RUAK%20RUAK%20RAWA%20%20DANAU.mp3"
+                },
+                {
+                    "id": 1023,
+                    "title": "RUAKRUAK PIKAT PEMANGGIL RUAKRUAK",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20RUAKRUAK%20PIKAT%20PEMANGGIL%20RUAKRUAK.mp3"
+                },
+                {
+                    "id": 1024,
+                    "title": "Ruak ruak pikat mp3 Durasi Panjang",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Ruak%20ruak%20pikat%20mp3%20%20Durasi%20Panjang%20.mp3"
+                },
+                {
+                    "id": 1025,
+                    "title": "SUARA PANGGILAN RUAKRUAK JANTAN DAN BETINA LANGSUNG MENDEKAT",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20PANGGILAN%20RUAKRUAK%20JANTAN%20DAN%20BETINA%20LANGSUNG%20MENDEKAT.mp3"
+                },
+                {
+                    "id": 1026,
+                    "title": "SUARA PIKAT RUAK RUAK CARA BERBURU RUAK RUAK PALING AMPUH",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20PIKAT%20RUAK%20RUAK%20CARA%20BERBURU%20RUAK%20RUAK%20PALING%20AMPUH.mp3"
+                },
+                {
+                    "id": 1027,
+                    "title": "SUARA PIKAT RUAK RUAK CEPAT DATANG ASLI REKAMAN Di ALAM",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20PIKAT%20RUAK%20RUAK%20CEPAT%20DATANG%20ASLI%20REKAMAN%20Di%20ALAM.mp3"
+                },
+                {
+                    "id": 1028,
+                    "title": "SUARA PIKAT RUAK RUAK PALING AMPUH 1000DI JAMIN LANGSUNG KROYOKAN SATU KAMPUNG",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20PIKAT%20RUAK%20RUAK%20PALING%20AMPUH%201000DI%20JAMIN%20LANGSUNG%20KROYOKAN%20SATU%20KAMPUNG.mp3"
+                },
+                {
+                    "id": 1029,
+                    "title": "SUARA PIKAT RUAK RUAK UNTUK MALAM HARI",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20PIKAT%20RUAK%20RUAK%20UNTUK%20MALAM%20HARI.mp3"
+                },
+                {
+                    "id": 1030,
+                    "title": "SUARA RUAK RUAK PIKAT PALING AMPUH 1000DI JAMIN DATANG SATU KAMPUNG DENGAR SUARA INI",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20SUARA%20RUAK%20RUAK%20PIKAT%20PALING%20AMPUH%201000DI%20JAMIN%20DATANG%20SATU%20KAMPUNG%20DENGAR%20SUARA%20INI.mp3"
+                },
+                {
+                    "id": 1031,
+                    "title": "Suara Burung Ruak Ruak Memanggil Ruak Ruak",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20Burung%20Ruak%20Ruak%20%20Memanggil%20Ruak%20Ruak.mp3"
+                },
+                {
+                    "id": 1032,
+                    "title": "Suara Pemikat Burung Wak Wak",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20Pemikat%20Burung%20Wak%20Wak.mp3"
+                },
+                {
+                    "id": 1033,
+                    "title": "Suara Pikat Burung Wak Wak Terbaik Banyak Yang Datang\u0e40\u0e2a\u0e22\u0e07\u0e19\u0e01\u0e23\u0e2d\u0e07\u0e27 RuakRuak",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20Pikat%20Burung%20Wak%20Wak%20Terbaik%20Banyak%20Yang%20%20Datang%E0%B9%80%E0%B8%AA%E0%B8%A2%E0%B8%87%E0%B8%99%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%A7%20RuakRuak.mp3"
+                },
+                {
+                    "id": 1034,
+                    "title": "Suara Pikat Ruak Ruak Khusus Malam Hari Ampuh",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20Pikat%20Ruak%20Ruak%20Khusus%20Malam%20Hari%20%20Ampuh.mp3"
+                },
+                {
+                    "id": 1035,
+                    "title": "Suara Ruak Ruak Pikat Paling Ampuh Kruaaak kruwuaa",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20Ruak%20Ruak%20Pikat%20Paling%20Ampuh%20%20Kruaaak%20%20kruwuaa%20%20%20.mp3"
+                },
+                {
+                    "id": 1036,
+                    "title": "Suara burung ruak ruak pancingan nonstop rekomendasi",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20burung%20ruak%20ruak%20pancingan%20nonstop%20%20tanpa%20iklan%20%20rekomendasi.mp3"
+                },
+                {
+                    "id": 1037,
+                    "title": "Suara pikat Burung RUAK mp3 Terbukti Dapat 10 per Jam",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20pikat%20%20Burung%20RUAK%20mp3%20Terbukti%20Dapat%2010%20per%20Jam.mp3"
+                },
+                {
+                    "id": 1038,
+                    "title": "Suara pikat Ruak kusus siang KROYOKAN DATANGNYA AMPE TERHERAN HERAN UBER UBERAN",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20pikat%20Ruak%20kusus%20siang%20KROYOKAN%20DATANGNYA%20AMPE%20TERHERAN%20HERAN%20UBER%20UBERAN.mp3"
+                },
+                {
+                    "id": 1039,
+                    "title": "Suara pikat Ruak mp3 terbaru 20212022",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20pikat%20Ruak%20mp3%20terbaru%2020212022.mp3"
+                },
+                {
+                    "id": 1040,
+                    "title": "Suara pikat burung Ruakruak Ampuh durasi panjang",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20pikat%20burung%20Ruakruak%20Ampuh%20durasi%20panjang.mp3"
+                },
+                {
+                    "id": 1041,
+                    "title": "Suara ruak ruak malam mp3",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20ruak%20ruak%20malam%20mp3.mp3"
+                },
+                {
+                    "id": 1042,
+                    "title": "Suara ruakruak bersih durasi panjang",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20Suara%20ruakruak%20bersih%20durasi%20panjang.mp3"
+                },
+                {
+                    "id": 1043,
+                    "title": "suara pikat burung ruakruak bersih dan gacor",
+                    "artist": "Suara Pikat 4",
+                    "path": "https:\/\/archive.org\/download\/y-2mate.com-suara-pikat-ruak-kusus-siang-kroyokan-datangnya-ampe-terheran-heran-uber-uberan\/y2mate.com%20-%20suara%20pikat%20burung%20ruakruak%20bersih%20dan%20gacor.mp3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Suara Pikat 5",
+            "artist": "Ruak Ruak",
+            "coverUrl": "https:\/\/i.pinimg.com\/736x\/f6\/7b\/b4\/f67bb4dc82b15790b13920288cc68fac.jpg",
+            "songs": [
+                {
+                    "id": 1044,
+                    "title": "SUARA PIKAT BURUNG RUAK RUAK DI JAMIN AMPUH(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/SUARA%20PIKAT%20BURUNG%20RUAK%20RUAK%20%20DI%20JAMIN%20AMPUH%281%29.mp3"
+                },
+                {
+                    "id": 1045,
+                    "title": "SUARA RUAK RUAK PALING AMPUH DI SIANG HARI(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/SUARA%20RUAK%20RUAK%20PALING%20AMPUH%20DI%20SIANG%20HARI%281%29.mp3"
+                },
+                {
+                    "id": 1046,
+                    "title": "SUARA RUAK2 ANAK KAN MEMANGGIL INDUK ya(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/SUARA%20RUAK2%20ANAK%20KAN%20MEMANGGIL%20INDUK%20ya%281%29.mp3"
+                },
+                {
+                    "id": 1047,
+                    "title": "Suara Burung Ruak Ruak suara betina MP3(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/Suara%20Burung%20Ruak%20Ruak%20suara%20betina%20MP3%281%29.mp3"
+                },
+                {
+                    "id": 1048,
+                    "title": "Suara induk dan anak ruak ruak untuk memikat(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/Suara%20induk%20dan%20anak%20ruak%20ruak%20untuk%20memikat%281%29.mp3"
+                },
+                {
+                    "id": 1049,
+                    "title": "Suara ruak ruak pikat paling ampuh(1)",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-pikat-burung-ruak-ruak-di-jamin-ampuh-1\/Suara%20ruak%20ruak%20pikat%20paling%20ampuh%281%29.mp3"
+                },
+                {
+                    "id": 1050,
+                    "title": "Pikat Ruak Ruak Bersih Cocok Untuk Mikat Betina Panggil Pejantan Langsung datang",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Pikat%20Ruak%20Ruak%20Bersih%20Cocok%20Untuk%20Mikat%20Betina%20Panggil%20%20Pejantan%20Langsung%20datang.mp3"
+                },
+                {
+                    "id": 1051,
+                    "title": "Suara Pemikat Burung Ruak Ruak 5 Menit Langsung Datang",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Pemikat%20Burung%20Ruak%20Ruak%20%205%20Menit%20Langsung%20Datang.mp3"
+                },
+                {
+                    "id": 1052,
+                    "title": "Suara Pikat Burung Ruak Ruak Suara betina",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Pikat%20Burung%20Ruak%20Ruak%20Suara%20betina%20.mp3"
+                },
+                {
+                    "id": 1053,
+                    "title": "Suara Pikat Ruak Kusus Malam Sangat Efektif Buat Berburu",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Pikat%20Ruak%20Kusus%20Malam%20Sangat%20Efektif%20Buat%20Berburu.mp3"
+                },
+                {
+                    "id": 1054,
+                    "title": "Suara Pikat Ruak Ruak Paling Ampuh Cocok Buat Pemburu",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Pikat%20Ruak%20Ruak%20Paling%20Ampuh%20%20Cocok%20Buat%20Pemburu.mp3"
+                },
+                {
+                    "id": 1055,
+                    "title": "Suara Pikat Ruak Ruak Untuk Siang Hari Dijamin Ampuh",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Pikat%20Ruak%20Ruak%20Untuk%20Siang%20Hari%20Dijamin%20Ampuh.mp3"
+                },
+                {
+                    "id": 1056,
+                    "title": "Suara Ruak Ruak Ampuh Semua Pada Keluar",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Ruak%20Ruak%20Ampuh%20Semua%20Pada%20Keluar.mp3"
+                },
+                {
+                    "id": 1057,
+                    "title": "Suara Ruak Ruak Anti Zonk Auto Ngumpul",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Ruak%20Ruak%20Anti%20Zonk%20Auto%20Ngumpul.mp3"
+                },
+                {
+                    "id": 1058,
+                    "title": "Suara Ruak Ruak Bikin Lawan",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Ruak%20Ruak%20Bikin%20Emosi%20Lawan.mp3"
+                },
+                {
+                    "id": 1059,
+                    "title": "Suara Ruak Ruak Terbaru Paling Ampuh",
+                    "artist": "Suara Pikat 5",
+                    "path": "https:\/\/archive.org\/download\/suara-ruak-ruak-pikat-online-pendek\/Suara%20Ruak%20Ruak%20Terbaru%20Paling%20Ampuh.mp3"
+                }
+            ]
+        }
+    ]
+}
